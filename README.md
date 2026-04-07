@@ -40,13 +40,6 @@ Studying Computer and Information Engineering at UFRJ (3th year), with hands-on 
 
 ---
 
-### GitHub Stats
-
-![Raphael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhelHilha&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhelHilha&layout=compact&hide_border=true&theme=default)
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelh-ufrj/)
