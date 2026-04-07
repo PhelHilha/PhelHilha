@@ -4,7 +4,7 @@
 
 ---
 
-Studying Computer and Information Engineering at UFRJ (4th year), with hands-on experience in both industrial research and academic research simultaneously.
+Studying Computer and Information Engineering at UFRJ (3th year), with hands-on experience in both industrial research and academic research simultaneously.
 
 - Researcher at **ANP** (Brazilian National Petroleum Agency) — predictive modeling & ML for the energy sector
 - Scientific Initiation Researcher at **COPPE/UFRJ** — generative AI, multimodal models & NLP applied to healthcare
